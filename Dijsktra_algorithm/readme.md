@@ -11,5 +11,6 @@ Na zajęciach i egzaminie ręcznie wyznaczaliśmy minimalną drogę w grafie ski
 
 ## Przykład użycia
 
-W pliku `example.ipynb` znajduje się przykład działania programu dla grafu skierowanego z egzaminu z matematyki dyskretnej (2024) ze strony Pana Profesora Kosiorowskiego. Plik `example2.ipynb` pokazuję działanie programu dla grafu nieskierowanego.
+W pliku `example.ipynb` znajduje się przykład działania programu dla grafu skierowanego z egzaminu z matematyki dyskretnej (2024) ze strony Pana Profesora Kosiorowskiego. Plik `example2.ipynb` pokazuje działanie programu dla grafu nieskierowanego.
+
 
